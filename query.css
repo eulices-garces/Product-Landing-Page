@@ -1,0 +1,10 @@
+@media (max-height: 500px) {
+    #header {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        flex-direction: column;
+        
+        text-align: center;
+    }
+}
